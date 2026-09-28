@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://brandon-magana.web.app"><b>Resume</b></a> &nbsp;·&nbsp;
+  <a href="https://www.maganacasa.com/about/career"><b>Website</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/li-brandon-magana/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:magana.brandon05@gmail.com"><b>Email</b></a>
 </p>
