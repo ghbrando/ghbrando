@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="UniCore: Rent out spare CPU, or boot a Linux VM on someone else's laptop from the browser.">
+<style>
+  .g { font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif; }
+  .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .ink { fill: #f2f0ea; }
+  .dim { fill: #f2f0ea94; }
+  .red { fill: #e2231a; }
+  .cap { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; }
+</style>
+<rect x="0" y="0" width="1000" height="1" fill="#f2f0ea"/>
+<text x="0" y="50" class="m red" font-size="14" font-weight="700">04</text>
+<text x="64" y="54" class="g ink" font-size="32" font-weight="700" letter-spacing="-1">UniCore</text>
+<text x="944" y="50" class="m cap dim" text-anchor="end">Team project</text>
+<text x="996" y="54" class="g red" font-size="30" text-anchor="end">→</text>
+<text x="64" y="84" class="g ink" font-size="17">Rent out spare CPU, or boot a Linux VM on someone else's laptop from the browser.</text>
+<text x="64" y="108" class="m dim" font-size="12.5" letter-spacing=".04em">.NET 10 · Blazor · GCP · Docker</text>
+</svg>

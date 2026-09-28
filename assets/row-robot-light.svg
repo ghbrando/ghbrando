@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Autonomous Robot: Competition-record 3,000 points, 2,000 ahead of second place.">
+<style>
+  .g { font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif; }
+  .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .ink { fill: #0b0b0b; }
+  .dim { fill: #0b0b0b8c; }
+  .red { fill: #e2231a; }
+  .cap { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; }
+</style>
+<rect x="0" y="0" width="1000" height="1" fill="#0b0b0b"/>
+<text x="0" y="50" class="m red" font-size="14" font-weight="700">06</text>
+<text x="64" y="54" class="g ink" font-size="32" font-weight="700" letter-spacing="-1">Autonomous Robot</text>
+<text x="996" y="50" class="m cap dim" text-anchor="end">1st place · Lead engineer</text>
+
+<text x="64" y="84" class="g ink" font-size="17">Competition-record 3,000 points, 2,000 ahead of second place.</text>
+<text x="64" y="108" class="m dim" font-size="12.5" letter-spacing=".04em">PID control · microcontrollers · Python</text>
+</svg>
