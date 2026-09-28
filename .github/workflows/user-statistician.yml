@@ -1,0 +1,21 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/github-stats.svg
+          colors: '["#0b0b0b", "#f2f0ea", "#e2231a", "#f2f0ea"]'
+          hide-keys: joined, featured
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1a1a1a&height=140&section=header&text=Brandon%20Magana&fontColor=f2f0ea&fontSize=48&fontAlignY=45&desc=AI%20agents%20%C2%B7%20knowledge%20graphs%20%C2%B7%20systems%20that%20run%20where%20the%20network%20doesn't%20reach&descSize=15&descAlignY=75&descColor=e2231a" width="100%" alt="Brandon Magana" />
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=E2231A&center=true&vCenter=true&width=640&lines=Offline+LLM+agents+on+air-gapped+hardware;GraphRAG+over+defense+knowledge;Edge+vision+with+YOLO+%2B+ONNX;Natural+language+%E2%86%92+verifiable+logic" alt="Offline LLM agents · GraphRAG · Edge vision · NL → logic" /></p>
+
+
 <p>
   <a href="https://www.linkedin.com/in/li-brandon-magana/"><img src="https://img.shields.io/badge/LinkedIn-li--brandon--magana-0b0b0b?style=flat-square&logo=linkedin&logoColor=f2f0ea&labelColor=e2231a" alt="LinkedIn" /></a>
   <a href="mailto:magana.brandon05@gmail.com"><img src="https://img.shields.io/badge/Email-magana.brandon05%40gmail.com-0b0b0b?style=flat-square&logo=gmail&logoColor=f2f0ea&labelColor=e2231a" alt="Email" /></a>
@@ -38,5 +41,9 @@ always   →  co-founder, CBU ACM Software Engineering Team
 <p>
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,cs,java,ts,bash,pytorch,nix,docker,kubernetes,postgres,gcp,firebase,supabase,react,nextjs,django,threejs,git&perline=11" alt="Python, Rust, C++, C#, Java, TypeScript, Bash, PyTorch, Nix, Docker, Kubernetes, PostgreSQL, GCP, Firebase, Supabase, React, Next.js, Django, Three.js, Git" />
 </p>
+
+### Activity
+
+<img src="images/github-stats.svg" alt="GitHub activity stats" width="100%" />
 
 <sub>Riverside, CA · Open to AI/ML and defense-tech opportunities</sub>
