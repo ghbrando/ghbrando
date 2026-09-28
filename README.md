@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Brandon Magana. Offline AI agents, knowledge graphs, and systems that run where the network does not reach."></picture>
 
 <p align="center">
-  <a href="https://brandon-magana.web.app"><b>Resume</b></a> &nbsp;·&nbsp;
+  <a href="https://www.maganacasa.com/resume"><b>Resume</b></a> &nbsp;·&nbsp;
   <a href="https://www.maganacasa.com/about/career"><b>Website</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/li-brandon-magana/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:magana.brandon05@gmail.com"><b>Email</b></a>
