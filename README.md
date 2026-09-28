@@ -44,6 +44,6 @@ always   →  co-founder, CBU ACM Software Engineering Team
 
 ### Activity
 
-<img src="images/github-stats.svg" alt="GitHub activity stats" width="100%" />
+<img src="images/github-stats.svg" alt="GitHub activity stats" width="460" />
 
 <sub>Riverside, CA · Open to AI/ML and defense-tech opportunities</sub>
