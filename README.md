@@ -20,6 +20,21 @@
 <a href="https://github.com/ghbrando/fod_hunter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-fod-dark.svg"><img src="assets/row-fod-light.svg" width="100%" alt="05 F.O.D. Hunter: drone-based debris detection for flight decks. Team project."></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-robot-dark.svg"><img src="assets/row-robot-light.svg" width="100%" alt="06 Autonomous Robot: first place, competition-record 3,000 points."></picture>
 
+### In motion
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/ghbrando/nl2logic-research"><img src="assets/demos/nl2logic.gif" width="100%" alt="nl2logic demo: a doctrine query comes back PROVEN with its cited source, another comes back UNKNOWN" /></a></td>
+    <td width="33%"><a href="https://github.com/ghbrando/fod_hunter"><img src="assets/demos/fod-hunter.gif" width="100%" alt="F.O.D. Hunter demo: the model tags debris in the drone feed and the operator logs it to the deck" /></a></td>
+    <td width="33%"><a href="https://github.com/ghbrando/unicore"><img src="assets/demos/unicore.gif" width="100%" alt="UniCore demo: scroll through the landing page and architecture docs" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>nl2logic</b> · proof-backed answers</sub></td>
+    <td align="center"><sub><b>F.O.D. Hunter</b> · detect, log, clear</sub></td>
+    <td align="center"><sub><b>UniCore</b> · browser-to-VM IaaS</sub></td>
+  </tr>
+</table>
+
 ### Toolbox
 
 <img src="https://skillicons.dev/icons?i=python,rust,cpp,cs,java,ts,bash,pytorch,nix,docker,kubernetes,postgres,gcp,firebase,supabase,react,nextjs,django,threejs,git&perline=10" alt="Python, Rust, C++, C#, Java, TypeScript, Bash, PyTorch, Nix, Docker, Kubernetes, PostgreSQL, GCP, Firebase, Supabase, React, Next.js, Django, Three.js, Git" />
