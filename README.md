@@ -26,12 +26,12 @@
   <tr>
     <td width="33%"><a href="https://github.com/ghbrando/nl2logic-research"><img src="assets/demos/nl2logic.gif" width="100%" alt="nl2logic demo: a doctrine query comes back PROVEN with its cited source, another comes back UNKNOWN" /></a></td>
     <td width="33%"><a href="https://github.com/ghbrando/fod_hunter"><img src="assets/demos/fod-hunter.gif" width="100%" alt="F.O.D. Hunter demo: the model tags debris in the drone feed and the operator logs it to the deck" /></a></td>
-    <td width="33%"><a href="https://github.com/ghbrando/unicore"><img src="assets/demos/unicore.gif" width="100%" alt="UniCore demo: scroll through the landing page and architecture docs" /></a></td>
+    <td width="33%"><a href="https://github.com/ghbrando/unicore"><img src="assets/demos/unicore.gif" width="100%" alt="UniCore demo: a consumer creates a VM on a provider and SSHes into it from the browser" /></a></td>
   </tr>
   <tr>
     <td align="center"><sub><b>nl2logic</b> · proof-backed answers</sub></td>
     <td align="center"><sub><b>F.O.D. Hunter</b> · detect, log, clear</sub></td>
-    <td align="center"><sub><b>UniCore</b> · browser-to-VM IaaS</sub></td>
+    <td align="center"><sub><b>UniCore</b> · VM on a stranger's PC</sub></td>
   </tr>
 </table>
 
